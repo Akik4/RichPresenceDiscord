@@ -1,0 +1,42 @@
+name: SkyFarm
+version: 1
+main: Package.main
+commands:
+  gm:
+    description: change le mode de jeu
+    usage : /gm 1, 0
+    permission: skyfarm.gm
+  weather:
+    description: Change la météo
+    permission: skyfarm.wc
+  day:
+    description: Met le jour
+    permission: skyfarm.day
+  night :
+    description: Met la nuit
+    permission: skyfarm.night
+  skyfarm :
+    description : Toute les commandes en rapport avec le jeu
+    permission: skyfarm.skyfarm
+  brouette :
+    description: C'est toujours marrant
+    permission: skyfarm.brouette
+  invsee :
+    description: Regardez dans l'inventaire d'un joueur
+    permission: skyfarm.invsee
+  team :
+    description: Les teams quoi
+    permission: skyfarm.team
+  feed :
+    description: Vous nourri
+    permission: skyfarm.feed
+  heal:
+    description: Vous soigne
+    permission: skyfarm.heal
+  play :
+    description: Commence une partie
+    permission: skyfarm.play
+  lobby :
+    description: Vous renvoies en lobby
+  test :
+    description: test

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RPCDiscord:jar">
+    <output-path>$PROJECT_DIR$/../../../../developpement/java</output-path>
+    <root id="archive" name="RPCDiscord.jar">
+      <element id="module-output" name="RPCDiscord" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/java-discord-rpc-2.0.1-all.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

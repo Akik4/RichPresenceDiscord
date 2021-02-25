@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstPlugin/FirstPlugin.iml" filepath="$PROJECT_DIR$/FirstPlugin/FirstPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lobby/Lobby.iml" filepath="$PROJECT_DIR$/Lobby/Lobby.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCDiscord/RPCDiscord.iml" filepath="$PROJECT_DIR$/RPCDiscord/RPCDiscord.iml" />
+    </modules>
+  </component>
+</project>

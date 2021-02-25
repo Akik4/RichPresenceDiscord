@@ -1,0 +1,7 @@
+name: Lobby
+version : 1.0
+author: Akik4
+main: fr.akika.lobby
+commands:
+  cmd:
+    description: Commande de test
